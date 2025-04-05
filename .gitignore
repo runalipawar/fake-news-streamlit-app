@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.pkl
+*.zip
+*.db
+.DS_Store
+.vscode/
+nltk_data/
+.streamlit/
